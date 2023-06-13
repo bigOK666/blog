@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
-weight = 2
-title = "Shaomaimai"
+languageCode = "zh-cn"
+languageName = "Simplified Chinese (China)"
+weight = 1
+title = "烧麦麦"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "CN"
+  isoCode = "cn"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -14,10 +14,10 @@ title = "Shaomaimai"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Shaomaimai"
+  name = "烧麦麦"
 #   image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "畅快淋漓地活着"
+  bio = "一只闲不住又不愿太忙的毛孩"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
