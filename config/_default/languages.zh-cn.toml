@@ -10,7 +10,7 @@ title = "烧麦麦"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "杂思"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
@@ -18,7 +18,7 @@ title = "烧麦麦"
 #   image = "img/blowfish_logo.png"
   headline = "畅快淋漓地活着"
   bio = "一只闲不住又不愿太忙的毛孩"
-#   links = [
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -31,7 +31,7 @@ title = "烧麦麦"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -61,4 +61,4 @@ title = "烧麦麦"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+  ]
