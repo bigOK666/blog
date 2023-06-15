@@ -1,0 +1,9 @@
+@font-face {
+    font-family: lxgwbright-regular;
+    src: url('/fonts/LXGWBright-Regular.ttf');
+}
+
+html {
+    font-family: lxgwbright-regular;
+    font-size: 14pt;
+}
